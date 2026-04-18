@@ -1,1 +1,1 @@
-# click-handler.js
+# click-handler
